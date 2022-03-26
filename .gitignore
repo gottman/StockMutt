@@ -1,2 +1,3 @@
 local_cache/**
 app/__pycache__
+app/config.py
