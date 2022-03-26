@@ -2,7 +2,8 @@
 A Linear Regression Stock Prediction Engine built on [Polygon.io](https://polygon.io/)
 
 ## Setup
-Add [Polygon.io](https://polygon.io/) API key to the [Config](app/config.py)
+1. Copy `app/config.py.example` to `app/config.py`
+2. Update `POLYGON_IO_REST_API_KEY` variable in `app/config.py` with [Polygon.io](https://polygon.io/) API key
 
 ## Currently a Work In Progress. 
 
