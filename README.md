@@ -1,6 +1,8 @@
 # Stock Mutt
-A Linear Regression Stock Prediction Engine built on Polygon.io</sub>
+A Linear Regression Stock Prediction Engine built on [Polygon.io](https://polygon.io/)
 
+## Setup
+Add [Polygon.io](https://polygon.io/) API key to the [Config](app/config.py)
 
 ## Currently a Work In Progress. 
 
@@ -17,3 +19,4 @@ A Linear Regression Stock Prediction Engine built on Polygon.io</sub>
 - Load data into [pandas](https://pandas.pydata.org/) DataFrame
 - Use [scikit](https://scikit-learn.org/stable/) to find linear regressions on various date ranges
 - Present stocks with most consistent, positive regressions for selection 
+
